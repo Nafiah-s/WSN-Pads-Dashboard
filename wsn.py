@@ -1,14 +1,3 @@
-"""
-=============================================================================
-WSN PADS Simulation — Streamlit Dashboard
-=============================================================================
-Run command:
-    streamlit run wsn_streamlit_app.py
-
-Install requirements:
-    pip install streamlit numpy pandas matplotlib
-=============================================================================
-"""
 
 import streamlit as st
 import numpy as np
